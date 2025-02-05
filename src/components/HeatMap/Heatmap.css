@@ -1,0 +1,30 @@
+.heatmapContainer {
+  overflow-x: auto;
+}
+
+.heatmapTable {
+  display: table;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.heatmapRow {
+  display: table-row;
+}
+
+.heatmapCell {
+  display: table-cell;
+  padding: 8px;
+  text-align: center;
+  border: 1px solid #ddd;
+}
+
+.skillLabel {
+  font-weight: bold;
+  background-color: #f4f4f4;
+}
+
+.colorCell {
+  width: 40px;
+  height: 20px;
+}

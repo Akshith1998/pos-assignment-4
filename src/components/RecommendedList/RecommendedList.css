@@ -1,0 +1,41 @@
+.recommendedList {
+  height: 80vh;
+  width: 20vw;
+  border: 1px solid;
+  overflow-y: scroll;
+}
+
+.mostRecommendedHeading {
+  padding-left: 20px;
+  margin-top: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid;
+}
+
+.candidateWrapper {
+  display: flex;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.candidateName {
+  font-size: 16px;
+  font-weight: 500;
+  margin-right: 5px;
+}
+
+.addIcon {
+  border: 1px solid;
+  border-radius: 50%;
+  padding: 0px 5px;
+  cursor: pointer;
+}
+
+.candidatesList {
+  padding-left: 20px;
+  margin-top: 20px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-bottom: 1px solid;
+  border-top: 1px solid;
+}
